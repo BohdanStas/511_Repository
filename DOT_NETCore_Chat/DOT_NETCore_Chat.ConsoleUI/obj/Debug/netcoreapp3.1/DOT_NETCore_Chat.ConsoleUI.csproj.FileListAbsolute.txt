@@ -1,0 +1,11 @@
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.exe
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.deps.json
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.runtimeconfig.json
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.runtimeconfig.dev.json
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.dll
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.pdb
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.csprojAssemblyReference.cache
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.AssemblyInfoInputs.cache
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.AssemblyInfo.cs
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.dll
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.ConsoleUI\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.ConsoleUI.pdb

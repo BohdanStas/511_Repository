@@ -1,0 +1,8 @@
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.deps.json
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.dll
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\bin\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.pdb
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.csprojAssemblyReference.cache
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.AssemblyInfoInputs.cache
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.AssemblyInfo.cs
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.dll
+D:\БПтД\511_Repository\DOT_NETCore_Chat\DOT_NETCore_Chat.Core\obj\Debug\netcoreapp3.1\DOT_NETCore_Chat.Core.pdb
